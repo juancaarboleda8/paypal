@@ -1,0 +1,22 @@
+{
+  "name": "paypal-start",
+  "version": "1.0.0",
+  "description": "paypal con node.js ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \\ error prueba no especificada"
+  },
+  "keywords": [
+    "paypal",
+    "payment",
+    "gateway",
+    "nodejs",
+    "payment",
+    "integration",
+    "in",
+    "web",
+    "apps"
+  ],
+  "author": "JuanCamiloarboleda",
+  "license": "MIT"
+}

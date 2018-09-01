@@ -1,0 +1,14 @@
+como instalar node.js para que funcione el proyecto
+1. tiene que ir a https://nodejs.org/en/download/current/ y descargar la version perteneciente a los bits de su pc y a su sistema operativo 
+
+2. depues de instalar node.js descargamos el proyecto que se encuentra en la siguiente url urlAqui, despues de descargar el proyecto prodecedemos a ponerlo en la carpeta de users.
+
+3. atravez de la terminal de su sistema sistema operativo accedemos a la direccion donde esta el proyecto en caso de que sea windows "cd /Users/Paypal"
+
+4. cuando ya este direccionado aplicamos el comando node servidor2.js en la terminal de su sistema operativo
+
+5. para retificar si el servidor esta creado correctamente debe aparecer en su terminal "creado correctamente " 
+
+
+Nota: en caso de que no use sistema operativo windows o MAC, debemos irnos al archivo del proyecto servidos2.js y cambiar las direcciones que son similares a esta '/Users/Paypal/index.html' por las  de la ubicacion que determine ejemplo 
+'/Users/Paypal/index.html' ---> '/Users/JuanCamilo/Desktop/Paypal/index.html
